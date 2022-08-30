@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.owner = [
-  ['6285850539404'],
-  ['6285850539404'],
-  ['6285850539404', 'Owner', true]
+  ['6282112080081'],
+  ['6282112080081'],
+  ['6282112080081', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
@@ -15,10 +15,10 @@ global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga
 global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
 global.instagram = 'https://instagram.com/Jarotr_'
-global.dana = '085850539404'
-global.saweria = 'https://saweria.co/jarotoffc'
-global.pulsa = '085850539404'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.dana = '083825121214'
+global.saweria = 'https://saweria.co/YuriNeko'
+global.pulsa = '083825121214'
+global.yt = 'https://youtube.com/channel/'
 global.mods = [] // Want some help?
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -72,7 +72,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '©𝐎𝐒𝐂𝐀𝐑-𝐌𝐝'
+global.wm = 'follow IG @admin_kyouka'
 
 global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
 
